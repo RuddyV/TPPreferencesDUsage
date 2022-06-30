@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource
+            name="jdbc/suividesrepasbdd"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            type="javax.sql.DataSource"
+            url="jdbc:mysql://localhost:3306/suividesrepasbdd"
+            username="root"
+            password="dwwm12"
+    />
+</Context>
+        <!--
+            driverClassName="org.sqlite.JDBC"
+            url="jdbc:sqlite:./db.sqlite"
+        -->

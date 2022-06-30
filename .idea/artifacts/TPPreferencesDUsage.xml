@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TPPreferencesDUsage">
+    <output-path>$PROJECT_DIR$/out/artifacts/TPPreferencesDUsage</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TPPreferencesDUsage" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TPPreferencesDUsage/web/Web" />
+    </root>
+  </artifact>
+</component>
